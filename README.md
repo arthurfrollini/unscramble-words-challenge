@@ -1,28 +1,17 @@
-# IDE de desenvolvimento:
+<h1 align="center">
+  <img alt="UnscrambleWords" title="UnscrambleWords" src=".github/logoLetras.png"/>
+</h1>
 
-- VSCode
+# Desafio
 
-# Linguagem utilizada:
+Neste desafio, o usuário digita via terminal, letras ou palavras embaralhadas, e é retornado possíveis palavras do nosso banco de palavras a serem formadas a partir do input do usuário.
 
-- JavaScript via Node.Js
+[Link - Desafio Completo](https://drive.google.com/file/d/1pgeNr5dH4UIbqQPaBu4ppHrzRtdeF-7l/view)
 
-# Gerenciador de pacotes:
+[Node.js](https://nodejs.org/en/)
 
-- npm
+# Como executar
 
-# SO da máquina:
-
-- MacOs
-
-# Command-Line Interface:
-
-- hyper
-
-# Dependências:
-
-$npm install readline-sync
-↪ Para ler entradas de usuários
-
-### Iniciando o desafio
-
-$node file.js
+- Clone o repositório
+- Instale as dependências com npm
+- Inicie a aplicação utilizando `node file.js`
