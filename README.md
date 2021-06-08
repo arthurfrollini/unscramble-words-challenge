@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="UnscrambleWords" title="UnscrambleWords" src=".github/logoLetras.png"/>
+  <img alt="UnscrambleWords" title="UnscrambleWords" src="github/logoLetras.png"/>
 </h1>
 
 # Desafio
